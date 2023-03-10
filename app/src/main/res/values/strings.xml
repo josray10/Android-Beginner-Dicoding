@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Valorant Esports Team</string>
+    <string name="esports_name">Esports Team Name</string>
+    <string name="location">Location</string>
+    <string name="region">Region</string>
+    <string name="fullName">Jossy Raya Gopasda Saragih</string>
+    <string name="email">jossyraya.saragih@gmail.com</string>
+
+
+    <string-array name="data_esports_name">
+        <item>Acend</item>
+        <item>Alter Ego</item>
+        <item>Boom Esports</item>
+        <item>DRX</item>
+        <item>Fnatic</item>
+        <item>LOUD</item>
+        <item>ONIC Esports</item>
+        <item>OpTic Gaming</item>
+        <item>Paper Rex</item>
+        <item>Sentinels</item>
+    </string-array>
+
+    <string-array name="data_esports_location">
+        <item>
+            Europe
+        </item>
+        <item>
+            Indonesia
+        </item>
+        <item>
+            Indonesia
+        </item>
+        <item>
+            Korea
+        </item>
+        <item>
+            United Kingdom
+
+        </item>
+        <item>
+            Brazil
+        </item>
+        <item>
+            Indonesia
+        </item>
+        <item>
+            United States
+        </item>
+        <item>
+            Singapore
+        </item>
+        <item>
+            United States
+        </item>
+    </string-array>
+
+    <string-array name="data_esports_region">
+        <item>
+            Europe (EU)
+        </item>
+        <item>
+            Asia Pacific (APAC)
+        </item>
+        <item>
+            Asia Pacific (APAC)
+        </item>
+        <item>
+            Korea (KR)
+        </item>
+        <item>
+            Europe (EU)
+
+        </item>
+        <item>
+            Brazil (BR)
+        </item>
+        <item>
+            Asia Pacific (APAC)
+        </item>
+        <item>
+            North America (NA)
+        </item>
+        <item>
+            Asia Pacific (APAC)
+        </item>
+        <item>
+            North America (NA)
+        </item>
+    </string-array>
+
+    <string-array name="data_esports_detail">
+        <item>
+            Acend is an Esports team based in Europe that competes in the game Valorant, with its roster originally consisting of former members of the team "Raised Your Edge Gaming". Since 2021, the team has participated in and won numerous Valorant competitions.
+        </item>
+        <item>
+            The team Alter Ego is a team from Indonesia. This team has many divisions for competitive gaming, including a Valorant division. The Alter Ego Valorant division is one of the strong Valorant teams in Indonesia.
+        </item>
+        <item>
+            BOOM Esports is an esports team based in Indonesia that was founded in 2017. The team has many divisions for various competitive games, including a Valorant division. The Valorant team of BOOM Esports has participated in numerous Valorant competitions, including the international Valorant Champions 2022 tournament in Turkey.
+        </item>
+        <item>
+            DRX (DragonX) is an esports organization based in South Korea and was founded in 2019. Initially, DRX focused on the game League of Legends, but now has teams for several other games, including Valorant. The DRX Valorant team was founded in February 2021 and consists of five South Korean players.
+        </item>
+        <item>
+            Fnatic is an Esports team based in London, England. It was founded in 2004 and has many competitive gaming divisions. In the Valorant division, the team has won the VCT LOCK//IN 2023 Sao Paulo Valorant competition.
+
+        </item>
+        <item>
+            LOUD is an Esports organization that has divisions in many games. LOUD\'s Valorant division is currently known as a strong team and has won many Valorant competitions.
+        </item>
+        <item>
+            ONIC Esports is an esports organization based in Indonesia. ONIC Esports has a Valorant team division. ONIC Esports has participated in many Valorant competitions ranging from tier A to tier C
+        </item>
+        <item>
+            OpTic Gaming is an American esports organization primarily known for its Call of Duty team. On June 12, 2019, the organization was acquired by Immortals Gaming Club which was then later reacquired by OpTic Gaming\'s founder Hector "H3CZ" Rodriguez on November 11, 2020.
+        </item>
+        <item>
+            PRX (or also known as Paper Rex) is an Esports team that originates from Southeast Asia. The team was founded in 2017 and is headquartered in Singapore. Paper Rex has teams in several games, including Valorant, PUBG, and Dota 2. The Paper Rex Valorant team is a strong team in the Southeast Asian region and has won several regional competitions.
+        </item>
+        <item>
+            Sentinels is an American esports organization based in Los Angeles which fields teams in Fortnite, Hearthstone, Apex Legends, Wild Rift, Halo and VALORANT. This team is one of the strongest Valorant teams in the North American region.
+        </item>
+    </string-array>
+
+    <string-array name="data_esports_roster">
+        <item>
+            Ondřej Petrů a.k.a MONSTEERR (Czechia)\n
+            Gilad Hakim a.k.a ALIVE	(Israel)\n
+            Jack Emmott a.k.a Br0die (United Kingdom)\n
+            Alessio Xhaferi a.k.a musashi (Germany)\n
+            Kamil Graniczka	 a.k.a baddyG (Poland)\n
+            Ivan Ledić a.k.a B3ASTM0D3 (Croatia)
+        </item>
+        <item>
+            Jonathan Adiputra a.k.a naTz (Indonesia)\n
+            Bryan Setiawan a.k.a Gemma	(Indonesia)\n
+            Delbert Tanoto a.k.a deLb (Indonesia)\n
+            Adrian Setiawan a.k.a adrnking (Indonesia)\n
+            Alehandro Fabian Simanjorang a.k.a Nakya (Indonesia)\n
+        </item>
+        <item>
+            Rizkie Adla Kusuma a.k.a BerserX (Indonesia)\n
+            Gary Dastin a.k.a blaZek1ng	(Indonesia)\n
+            Fikri Zaki a.k.a famouz (Indonesia)\n
+            Alessio Xhaferi a.k.a musashi (Indonesia)\n
+            Michael Winata a.k.a SEVERiNE (Indonesia)\n
+            Hildegard Arnaldo a.k.a Cud (Indonesia)
+        </item>
+        <item>
+            Kim Gu-taek	a.k.a stax(South Korea)\n
+            Goo Sang-Min a.k.a Rb(South Korea)\n
+            Kim Gi-seok	a.k.a Zest(South Korea)\n
+            Yu Byung-chul a.k.a BuZz(South Korea)\n
+            Kim Myeong-kwan	a.k.a MaKo(South Korea)\n
+            Jung Jae-sung a. k.a Foxy9(South Korea)
+        </item>
+        <item>
+            Jake Howlett a.k.a Boaster(United Kingdom)\n
+            Nikita Sirmitev	a.k.a Derke(Finland)\n
+            Emir Ali Beder a.k.a Alfajer(Turkey)\n
+            Leo Jannesson a.k.a Leo(Sweden)\n
+            Timofey Khromov	a.k.a Chronicle(Russia)\n
+            Maks Rychlewski a. k.a kamyk(Poland)
+        </item>
+        <item>
+            Erick Santos a.k.a aspas(Brazil)\n
+            Felipe Basso a.k.a Less(Brazil)\n
+            Matias Delipetro a.k.a saadhak(Argentina)\n
+            Cauan Pereira a.k.a cauanzin(Brazil)\n
+            Arthur Vieira a.k.a tuyz(Brazil)
+        </item>
+        <item>
+            Cahya Nugraha a.k.a Monyet (Indonesia)\n
+            Hagai Kristen Yesyurun Tewuh a.k.a Lmemore (Indonesia)\n
+            Hildegard Arnaldo a.k.a Shiro (Indonesia)\n
+            Sheldon Andersen Chandra a.k.a NcSlasher (Indonesia)\n
+            Michael Winata a.k.a SEVERiNE (Indonesia)
+        </item>
+        <item>
+            Jimmy Nguyen a.k.a Marved (Canada)\n
+            Pujan Mehta a.k.a FNS (Canada)\n
+            Jaccob Whiteaker a.k.a yay (United States)\n
+            Victor Wong a.k.a Victor (United States)\n
+            Austin Roberts a.k.a crashies (United States)
+        </item>
+        <item>
+            Aaron Leonhart a.k.a mindfreak (Indonesia)\n
+            Jason Sutanto a.k.a f0rsakeN (Indonesia)\n
+            Benedict Tan a.k.a Benkai (Singapore)\n
+            Khalish Rusyaidee a.k.a D4v4i (Malaysia)\n
+            Wang Jing Jie a.k.a jinggg (Singapore)\n
+            Patiphan Posri a.k.a CigarettaS (Thailand)
+        </item>
+        <item>
+            Tyson Ngo a.k.a TenZ (Kanada)\n
+            Zachary Patrone a.k.a zekken (United States)\n
+            Gustavo Rossi a.k.a Sacy (Brazil)\n
+            Bryan Luna a.k.a pANcada (Brazil)\n
+            Rory Jackson a.k.a dephh (United States)
+        </item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/acend</item>
+        <item>@drawable/alter_ego</item>
+        <item>@drawable/boom_esports</item>
+        <item>@drawable/drx</item>
+        <item>@drawable/fnatic</item>
+        <item>@drawable/loud</item>
+        <item>@drawable/onic_esports</item>
+        <item>@drawable/optic_gaming</item>
+        <item>@drawable/prx</item>
+        <item>@drawable/sentinels</item>
+    </integer-array>
+</resources>
